@@ -1,0 +1,25 @@
+{
+	"name": "angular-logger",
+	"main": "angular-logger.js",
+	"version": "1.0.0",
+	"homepage": "https://github.com/mattlo/angular-logger",
+	"authors": [
+		"Matt Lo <mattlo.developer@gmail.com>"
+	],
+	"description": "An angular module that outputs additional information on the `$log` object.",
+	"keywords": [
+		"log",
+		"logger"
+	],
+	"dependencies": {
+		"angular": null
+	},
+	"license": "Apache",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
