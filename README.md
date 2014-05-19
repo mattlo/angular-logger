@@ -1,5 +1,7 @@
 # Angular Logger 
 
+An angular module that outputs additional information on the `$log` object. 
+
 ## Install
 
 Clone the repository and include directly into your project. You can also use bower and install as a dependency:
