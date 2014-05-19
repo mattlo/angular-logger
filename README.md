@@ -22,7 +22,7 @@ var app = angular.module('MyApp', [
 
 The module utilizes `$provide.decorator` to override `$log` and automatically wraps it when its included as a dependency. API usage is the same as https://docs.angularjs.org/api/ng/service/$log
 
-Timestamps are in `Minutes:Seconds:Milliseconds` format.
+Timestamps are in `Hours:Minutes:Seconds` format.
 
 ```
 $log.info('Hello World'); // 12:34:56 [INFO] Hello World 
