@@ -1,4 +1,10 @@
-# Angular Logger 
+_This project is no longer maintained. It is now included and superseded by: **[better-js-logging/angular-logger](https://github.com/better-js-logging/angular-logger)**._
+
+_Your current "angular-logger" bower dependency will keep working and is still the correct one._
+
+---
+
+# ~~Angular Logger~~
 
 An angular module that outputs additional information on the `$log` object. 
 
