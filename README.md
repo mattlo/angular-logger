@@ -1,6 +1,6 @@
 _This project is no longer maintained. It is now included and superseded by: **[better-js-logging/angular-logger](https://github.com/better-js-logging/angular-logger)**._
 
-_Your current "angular-logger" bower dependency will keep working and is still the correct one._
+_Your current "angular-logger" bower dependency will keep working and is still the correct one. If you want to continue using this project, refer to angular-logger-basic instead on bower._
 
 ---
 
@@ -13,7 +13,7 @@ An angular module that outputs additional information on the `$log` object.
 Clone the repository and include directly into your project. You can also use bower and install as a dependency:
 
 ```
-bower install angular-logger
+bower install angular-logger-basic
 ```
 
 Add the dependency in your Angular's project dependency arguments:

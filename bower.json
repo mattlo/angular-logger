@@ -1,5 +1,5 @@
 {
-	"name": "angular-logger",
+	"name": "angular-logger-basic",
 	"main": "angular-logger.js",
 	"version": "1.0.0",
 	"homepage": "https://github.com/mattlo/angular-logger",
